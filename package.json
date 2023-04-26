@@ -1,0 +1,24 @@
+{
+  "name": "readmefile_maker",
+  "version": "1.0.0",
+  "description": "Generating a READme file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alberdaniel1/readmeFile_Maker.git"
+  },
+  "keywords": [
+    "READme",
+    "file",
+    "genterator"
+  ],
+  "author": "Alberto Avelar avelar0218@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alberdaniel1/readmeFile_Maker/issues"
+  },
+  "homepage": "https://github.com/alberdaniel1/readmeFile_Maker#readme"
+}
