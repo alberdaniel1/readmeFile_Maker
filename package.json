@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alberdaniel1/readmeFile_Maker/issues"
   },
-  "homepage": "https://github.com/alberdaniel1/readmeFile_Maker#readme"
+  "homepage": "https://github.com/alberdaniel1/readmeFile_Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
