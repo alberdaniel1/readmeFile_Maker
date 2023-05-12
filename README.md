@@ -20,7 +20,13 @@ Answer the prompts in your commmand line to generate the README.file.
 
 Once finished answering the propmt questions.The README.file Will be at the root of the repo.
 
-## Usuage
+## Methodolgy 
+ The application utilizes syntax ES6 and beyond, including:
+ - Template literals
+ - inquirer along with fs.writeFile promises
+ - Arrow functions
+
+## Usage
 
 
 
