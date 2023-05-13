@@ -33,3 +33,7 @@ FInally, fs.writeFIle is used to generate your project's README.md file.
 ![](./utilis/images/Screenshot%202023-05-12%20at%207.21.52%20PM.png)
 ![](./utilis/images/Screenshot%202023-05-12%20at%207.29.02%20PM.png)
 ![](./utilis/images/Screenshot%202023-05-12%20at%207.34.54%20PM.png)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
