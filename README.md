@@ -26,6 +26,7 @@ The application will start by running node index.js in the command line/Terminal
 ## Usage
 - Once you run node index.js the application uses inquirer package to prompt in the command line with a series of questions about your GitHub about your project.
 FInally, fs.writeFIle is used to generate your project's README.md file.
+<<<<<<< HEAD
 [image](./utilis/images/Screenshot%202023-05-12%20at%207.20.50%20PM.png)
 [image](./utilis/images/Screenshot%202023-05-12%20at%207.21.52%20PM.png)
 [image](./utilis/images/Screenshot%202023-05-12%20at%207.29.02%20PM.png)
@@ -35,3 +36,10 @@ FInally, fs.writeFIle is used to generate your project's README.md file.
 
 ## license
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+=======
+![image](./utilis/images/Screenshot%202023-05-12%20at%207.20.50%20PM.png)
+![image](./utilis/images/Screenshot%202023-05-12%20at%207.21.52%20PM.png)
+![image](./utilis/images/Screenshot%202023-05-12%20at%207.29.02%20PM.png)
+![image](./utilis/images/Screenshot%202023-05-12%20at%207.34.54%20PM.png)
+![How to install and use app video](https://drive.google.com/file/d/1jM13jfwdAMWcE5Kt9_OrwWLjDsAhzEGa/view)
+>>>>>>> 19bbd15064dd5756444c06ac335bcf401692df97
