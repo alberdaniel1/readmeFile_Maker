@@ -12,12 +12,12 @@
 [license](#license)
 
   ## Description
-  With this app creating a README.file will be as simple as ansering a series of questions regarding your project.Once answered the app will automatically turn it into  a profesional README.file
+  With this app creating a README.file will be as simple as answering a series of questions regarding your project. Once answered the app will automatically turn it into a professional README.file
   ## Requirements
-  JavaScritp Node 
+  JavaScript and Node
   ## Contact me
   * Name - Alberto Avelar
-  * Email- avelar0218@gmail.com	
+  * Email- avelar0218@gmail.com
   * GitHub - [alberdaniel1](https://github.com/alberdaniel1/)
   ## Contriubters
   undefined

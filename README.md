@@ -2,7 +2,7 @@
 ## Table of contents
   * [DESCRIPTION](#description)
   * [INSTALATION](#installation)
-  * [METHODOLGY](#requirements)
+  * [METHODOLOGY](#methodology)
   * [USAGE](#usage)
   * [LICENSE](#contact-me)
 
@@ -27,6 +27,9 @@ Once finished answering the propmt questions.The README.file Will be at the root
  - Arrow functions
 
 ## Usage
-
-
-
+- Once you run node index.js the application uses inquirer package to prompt in the command line with a series of questions about your GitHub about your project.
+FInally, fs.writeFIle is used to generate your project's README.md file.
+![](./utilis/images/Screenshot%202023-05-12%20at%207.20.50%20PM.png)
+![](./utilis/images/Screenshot%202023-05-12%20at%207.21.52%20PM.png)
+![](./utilis/images/Screenshot%202023-05-12%20at%207.29.02%20PM.png)
+![](./utilis/images/Screenshot%202023-05-12%20at%207.34.54%20PM.png)
