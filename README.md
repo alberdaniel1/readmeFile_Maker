@@ -31,3 +31,7 @@ FInally, fs.writeFIle is used to generate your project's README.md file.
 [image](./utilis/images/Screenshot%202023-05-12%20at%207.29.02%20PM.png)
 [image](./utilis/images/Screenshot%202023-05-12%20at%207.34.54%20PM.png)
 [How to install and use app video](https://drive.google.com/file/d/1jM13jfwdAMWcE5Kt9_OrwWLjDsAhzEGa/view)
+
+
+## license
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
