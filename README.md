@@ -1,7 +1,7 @@
 # readmeFile_Maker
 ## Table of contents
   * [DESCRIPTION](#description)
-  * [INSTALATION](#installation)
+  * [INSTALLATION](#installation)
   * [METHODOLOGY](#methodology)
   * [USAGE](#usage)
   * [LICENSE](#contact-me)
